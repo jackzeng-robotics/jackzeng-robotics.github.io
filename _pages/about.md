@@ -13,7 +13,7 @@ real-world robotic systems. I envision a future where humans are relieved from d
 
 **Currently looking for PhD positions in Robotics** starting summer/fall 2025!.
 
-I am finishing my Master's degree in Robotics at TU Delft (2023-2025), with my thesis at the [Autonomous Multi-Robots Lab](https://autonomousrobots.nl/). I completed my Bachelor's degree in Mechanical Engineering at TU Delft (2019-2022) with cum laude distinction, and spent a semester at EPFL (2021-2022). Next to that I have industry experience in locomotion for a medical exoskeleton at [Project MARCH](https://www.projectmarch.nl/) (2022-2023) and as student Robotics Engineer at [Prime Vision](https://primevision.com/) (2023-2024).
+I finished my Master's degree in Robotics at TU Delft (2023-2025) with cum laude distinction, with my thesis at the [Autonomous Multi-Robots Lab](https://autonomousrobots.nl/). I completed my Bachelor's degree in Mechanical Engineering at TU Delft (2019-2022) with cum laude distinction, and spent a semester at EPFL (2021-2022). Next to that I have industry experience in bipdeal locomotion for a medical exoskeleton at [Project MARCH](https://www.projectmarch.nl/) (2022-2023) and as student Robotics Engineer at [Prime Vision](https://primevision.com/) (2023-2024).
 
 **My Master's thesis results** \\
 <img src="/files/nominal_case.gif" width="380"/><img src="/files/failure_case.gif" width="380"/>
