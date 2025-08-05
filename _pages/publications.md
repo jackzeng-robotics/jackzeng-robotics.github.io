@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 + [_Decentralized Aerial Manipulation of a Cable-Suspended Load using Multi-Agent Reinforcement Learning_](https://autonomousrobots.nl/paper_websites/aerial-manipulation-marl)  
-**Jack Zeng**, Andreu Matoses-Gimenez, Eugene Vinitsky, Javier Alonso-Mora, Sihao Sun \\
+**Jack Zeng**, Andreu Matoses Gimenez, Eugene Vinitsky, Javier Alonso-Mora, Sihao Sun \\
 Conference on Robot Learning 2025 (CoRL)  
 
 \\
