@@ -11,9 +11,9 @@ author_profile: true
   </div>
 {% endif %}
 
-+ [_Decentralized Aerial Manipulation of a Cable-Suspended Load using Multi-Agent Reinforcement Learning_]()  
-**Jack Zeng**, other anonymous authors \\
-Under review, Conference on Robot Learning 2025 (CoRL)  
++ [_Decentralized Aerial Manipulation of a Cable-Suspended Load using Multi-Agent Reinforcement Learning_](https://autonomousrobots.nl/paper_websites/aerial-manipulation-marl)  
+**Jack Zeng**, Andreu Matoses-Gimenez, Eugene Vinitsky, Javier Alonso-Mora, Sihao Sun \\
+Conference on Robot Learning 2025 (CoRL)  
 
 \\
 And more to come!

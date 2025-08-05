@@ -2,11 +2,11 @@
 title: "Decentralized Aerial Manipulation of a Cable-Suspended Load using Multi-Agent Reinforcement Learning"
 collection: publications
 category: conferences
-permalink: /publication/2025-04-31-decentralized-aerial
+permalink: /publication/2025-08-02-decentralized-aerial
 excerpt: #'This paper is about fixing template issue #693.'
-date: 2025-02-17
-venue: 'Under Review, Conference on Robot Learning (CoRL)'
-paperurl: #'google.com'
+date: 2025-08-02
+venue: 'Conference on Robot Learning (CoRL)'
+paperurl: 'https://autonomousrobots.nl/paper_websites/aerial-manipulation-marl'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 <!-- 
