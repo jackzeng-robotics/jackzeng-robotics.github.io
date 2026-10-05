@@ -17,4 +17,4 @@ Conference on Robot Learning 2025 (CoRL)
 
 + [_Accurate Trajectory Tracking with Model Predictive Contouring Control for Bird-Scale Flapping-Wing MAVs_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11669975)  
 Charbel Toumieh, **Jack Zeng**, Niel Mistry, Dario Floreano \\
-IEEE Robotics and Automation Letters (RA-L)
+IEEE Robotics and Automation Letters 2026 (RA-L)
